@@ -1,7 +1,7 @@
 <h1 align="left">Thaynar Santana</h1>
 
 ###
-<img align="right" height="180" src="https://www.seekpng.com/png/detail/183-1838203_http-octodex-github-github-octocat.png"  />
+<img align="right" height="500" src="https://github.com/ThayLoft/images/blob/main/Captura%20de%20Tela%202022-06-14%20a%CC%80s%2021.11.39.png?raw=true"  />
 
 ###
 <div align="left">
