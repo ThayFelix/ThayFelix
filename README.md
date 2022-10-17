@@ -23,6 +23,9 @@
 <p align="left">Tenho 26 anos, moro em São Paulo/SP e sou mãe de coelho 🐰. Trabalho como dev front há 3 anos e estou aprendendo sobre ui/ux e acessibilidade.</p>
 
 ###
+<p align="left">I'm 26 years old, I live in São Paulo/SP and I'm a rabbit mother 🐰. I've been working as a frontend developer for 3 years and I'm learning about ui/ux and accessibility.</p>
+
+###
 <div align="left">
   <img height="150" src="https://64.media.tumblr.com/c3c1983d1052a3835c4eb85e879f6515/tumblr_n6jy09xhWb1qdnrero2_400.gifv"  />
 </div>
