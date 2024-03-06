@@ -20,10 +20,10 @@
 <h3 align="left">Hello, Devs!!</h3>
 
 ###
-<p align="left">Tenho 26 anos, moro em São Paulo/SP e sou mãe de coelho 🐰. Trabalho como dev front há 3 anos e estou aprendendo sobre ui/ux e acessibilidade.</p>
+<p align="left">Tenho 28 anos, moro em Jundiaí/SP e sou mãe de coelho 🐰. Trabalho como dev front há 4 anos e já atuei em empresas de vários ramos diferente, desde pesquisa de satisfação do cliente até imobiliária e atualmente no Grupo Boticário.</p>
 
 ###
-<p align="left">I'm 26 years old, I live in São Paulo/SP and I'm a rabbit mother 🐰. I've been working as a frontend developer for 3 years and I'm learning about ui/ux and accessibility.</p>
+<p align="left">I'm 28 years old, I live in Jundiaí/SP and I'm a rabbit mother 🐰. I've been working as a frontend developer for 4 years and I have worked in companies in several different sectors, from customer satisfaction research to real estate and currently at Grupo Boticário.</p>
 
 ###
 <div align="left">
@@ -45,8 +45,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" width="52" alt="inkscape logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
 </div>
 
+###
 ###
 ![Snake animation](https://github.com/ThayLoft/ThayLoft/blob/output/github-contribution-grid-snake.svg)
 
