@@ -20,10 +20,10 @@
 <h3 align="left">Hello, Devs!!</h3>
 
 ###
-<p align="left">Tenho 28 anos, moro em Jundiaí/SP e sou mãe de coelho 🐰. Trabalho como dev front há 4 anos e já atuei em empresas de vários ramos diferentes, desde pesquisa de satisfação do cliente até imobiliária e atualmente no Grupo Boticário.</p>
+<p align="left">Tenho 30 anos, moro em Barra dos Coqueiros/SE e sou mãe de coelho 🐰. Trabalho como dev front há mais de 5 anos e já atuei em empresas de vários ramos diferentes, desde pesquisa de satisfação do cliente até imobiliária e atualmente no Grupo Boticário.</p>
 
 ###
-<p align="left">I'm 28 years old, I live in Jundiaí/SP and I'm a rabbit mother 🐰. I've been working as a frontend developer for 4 years and I have worked in companies in several different sectors, from customer satisfaction research to real estate and currently at Grupo Boticário.</p>
+<p align="left">I'm 30 years old, I live in Barra dos Coqueiros/SE and I'm a rabbit mother 🐰. I've been working as a frontend developer for more than 5 years and I have worked in companies in several different sectors, from customer satisfaction research to real estate and currently at Grupo Boticário.</p>
 
 ###
 <div align="left">
